@@ -1,5 +1,4 @@
 [
-  {"palavra": "Algoritmo", "definicao": "Sequência lógica de instruções para resolver um problema."},
   {"palavra": "Banco de Dados", "definicao": "Conjunto organizado de informações armazenadas."},
   {"palavra": "Benchmarking", "definicao": "Comparação de processos e práticas com os melhores do mercado."},
   {"palavra": "BSC", "definicao": "Balanced Scorecard, ferramenta de gestão estratégica."},
@@ -54,3 +53,4 @@
   {"palavra": "Vantagem Competitiva", "definicao": "Capacidade de se diferenciar e se destacar no mercado."},
   {"palavra": "Lean Startup", "definicao": "Método para desenvolver negócios e produtos de forma ágil e eficiente."}
 ]
+
