@@ -5998,5 +5998,336 @@
     "palavra": "Qualidade Integrado",
     "definicao": "Qualidade Integrado é um conceito aplicado na área de administração geral, caracterizado pela utilização de métodos técnicos e estratégicos voltados à melhoria do desempenho organizacional, eficiência operacional e geração de valor sustentável no ambiente corporativo.",
     "categoria": "Administração Geral"
-  }
+  },
+  {
+    "id": 1001,
+    "palavra": "Banco de Dados",
+    "definicao": "Conjunto organizado de informações armazenadas.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1002,
+    "palavra": "Benchmarking",
+    "definicao": "Comparação de processos e práticas com os melhores do mercado.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1003,
+    "palavra": "BSC",
+    "definicao": "Balanced Scorecard, ferramenta de gestão estratégica.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1004,
+    "palavra": "Capital de Giro",
+    "definicao": "Recursos financeiros necessários para manter operações da empresa.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1005,
+    "palavra": "Cash Flow",
+    "definicao": "Fluxo de caixa, entrada e saída de dinheiro.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1006,
+    "palavra": "CEO",
+    "definicao": "Chief Executive Officer, diretor executivo da empresa.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1007,
+    "palavra": "CFO",
+    "definicao": "Chief Financial Officer, diretor financeiro da empresa.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1008,
+    "palavra": "CRM",
+    "definicao": "Customer Relationship Management, gestão do relacionamento com clientes.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1009,
+    "palavra": "Crowdsourcing",
+    "definicao": "Obtenção de ideias, serviços ou conteúdo de um grande grupo de pessoas.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1010,
+    "palavra": "Dashboard",
+    "definicao": "Painel de indicadores e métricas de desempenho.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1011,
+    "palavra": "Depreciação",
+    "definicao": "Redução do valor de um bem ao longo do tempo.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1012,
+    "palavra": "Divisão de Trabalho",
+    "definicao": "Distribuição das tarefas entre colaboradores.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1013,
+    "palavra": "Eficiência",
+    "definicao": "Realização de tarefas com o mínimo de recursos.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1014,
+    "palavra": "Eficácia",
+    "definicao": "Alcance dos resultados planejados.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1015,
+    "palavra": "Efetividade",
+    "definicao": "Capacidade de se alcançar plenamente um objetivo utilizando o mínimo de recursos possível, de modo a cumprir com a finalidade definida e ainda assim se evitar desperdício.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1016,
+    "palavra": "ERP",
+    "definicao": "Enterprise Resource Planning, sistema integrado de gestão.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1017,
+    "palavra": "Feedback",
+    "definicao": "Retorno sobre desempenho ou comportamento.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1018,
+    "palavra": "Forecast",
+    "definicao": "Previsão de resultados futuros.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1019,
+    "palavra": "Franchising",
+    "definicao": "Sistema de concessão de franquias.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1020,
+    "palavra": "Governança Corporativa",
+    "definicao": "Conjunto de práticas de gestão e controle de empresas.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1021,
+    "palavra": "Indicadores de Desempenho",
+    "definicao": "Métricas que medem o desempenho de processos ou pessoas.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1022,
+    "palavra": "Inovação",
+    "definicao": "Criação de algo novo ou melhoria significativa.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1023,
+    "palavra": "Investimento",
+    "definicao": "Aplicação de recursos com expectativa de retorno.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1024,
+    "palavra": "KPIs",
+    "definicao": "Key Performance Indicators, indicadores-chave de desempenho.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1025,
+    "palavra": "Lean",
+    "definicao": "Método de gestão focado em eliminar desperdícios.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1026,
+    "palavra": "Logística",
+    "definicao": "Planejamento e controle de fluxo de materiais e produtos.",
+    "categoria": "Administração Geral"
+   },
+   {
+    "id": 1027,
+    "palavra": "Lucro",
+    "definicao": "Resultado positivo das operações de uma empresa.",
+    "categoria": "Administração Geral"
+   },
+   {
+    "id": 1028,
+    "palavra": "Matriz SWOT",
+    "definicao": "Ferramenta de análise de forças, fraquezas, oportunidades e ameaças.",
+    "categoria": "Administração Geral"
+   },
+   {
+    "id": 1029,
+    "palavra": "SWOT",
+    "definicao": Análise de forças, fraquezas, oportunidades e ameaças.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1030,
+    "palavra": "Marketing Digital",
+    "definicao": "Promover produtos ou serviços através de canais digitais.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1031,
+    "palavra": "Modelo de Negócio",
+    "definicao": "Forma como a empresa cria, entrega e captura valor.",
+    "categoria": "Administração Geral"
+   },
+   {
+    "id": 1032,
+    "palavra": "Motivação",
+    "definicao": "Fatores que estimulam o desempenho e o engajamento.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1033,
+    "palavra": "Outsourcing",
+    "definicao": "Terceirização de serviços ou processos.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1034,
+    "palavra": "Participação nos Lucro",
+    "definicao": "Distribuição de parte do lucro aos colaboradores.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1035,
+    "palavra": "PLR",
+    "definicao": "Distribuição de parte do lucro aos colaboradores.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1036,
+    "palavra": "Planejamento Estratégico",
+    "definicao": "Definição de objetivos e ações para alcançar metas de longo prazo.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1037,
+    "palavra": "Portfolio",
+    "definicao": "Conjunto de produtos ou serviços oferecidos por uma empresa.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1038,
+    "palavra": "Processos",
+    "definicao": "Conjunto de atividades inter-relacionadas que transformam insumos em resultados.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1039,
+    "palavra": "Produtividade",
+    "definicao": "Relação entre resultados obtidos e recursos utilizados.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1040,
+    "palavra": "Projeto",
+    "definicao": "Conjunto de atividades temporárias para atingir um objetivo específico.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1041,
+    "palavra": "Reengenharia",
+    "definicao": "Redesenho radical de processos para melhoria de desempenho.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1042,
+    "palavra": "Recursos Humanos",
+    "definicao": "Área responsável pela gestão de pessoas.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1043,
+    "palavra": "Rentabilidade",
+    "definicao": "Capacidade de gerar lucro em relação ao investimento.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1044,
+    "palavra": "RH",
+    "definicao": "Recursos Humanos, gestão de pessoas.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1045,
+    "palavra": "ROI",
+    "definicao": "Return on Investment, retorno sobre investimento.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1046,
+    "palavra": "Stakeholders",
+    "definicao": "Partes interessadas em uma empresa ou projeto.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1047,
+    "palavra": "Tomada de Decisão",
+    "definicao": "Escolha entre alternativas visando melhores resultados.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1048,
+    "palavra": "Treinamento",
+    "definicao": "Ações para desenvolver habilidades e competências.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1049,
+    "palavra": "Turnover",
+    "definicao": "Rotatividade de colaboradores (funcionários) em uma empresa.",
+    "categoria": "Administração Geral"
+  },
+  {
+    "id": 1050,
+    "palavra": "Visão",
+    "definicao": "Imagem desejada para o futuro da empresa.",
+    "categoria": "Administração Geral"
+   },
+   {
+    "id": 1051,
+    "palavra": "Missão",
+    "definicao": "Razão de ser de uma organização, definindo sua identidade, o que ela faz, para quem e como atua no presente.",
+    "categoria": "Administração Geral"
+   },
+   {
+    "id": 1052,
+    "palavra": "Workflow",
+    "definicao": "Fluxo de trabalho, sequência de atividades.",
+    "categoria": "Administração Geral"
+   },
+   {
+    "id": 1053,
+    "palavra": "Valor Agregado",
+    "definicao": "Benefício adicional criado além do produto principal.",
+    "categoria": "Administração Geral"
+   },
+   {
+    "id": 1054,
+    "palavra": "Lean Startup",
+    "definicao": "Método para desenvolver negócios e produtos de forma ágil e eficiente.",
+    "categoria": "Administração Geral"
+   },
+   {
+    "id": 1055,
+    "palavra": "Vantagem Competitiva",
+    "definicao": "Capacidade de se diferenciar e se destacar no mercado.",
+    "categoria": "Administração Geral"
+ }
 ]
+  
